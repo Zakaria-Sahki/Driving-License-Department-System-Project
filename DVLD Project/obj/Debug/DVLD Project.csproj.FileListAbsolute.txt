@@ -1,0 +1,11 @@
+C:\Users\Zakaria Sahki\source\repos\DVLD Project\DVLD Project\bin\Debug\DVLD Project.exe.config
+C:\Users\Zakaria Sahki\source\repos\DVLD Project\DVLD Project\bin\Debug\DVLD Project.exe
+C:\Users\Zakaria Sahki\source\repos\DVLD Project\DVLD Project\bin\Debug\DVLD Project.pdb
+C:\Users\Zakaria Sahki\source\repos\DVLD Project\DVLD Project\obj\Debug\DVLD Project.csproj.AssemblyReference.cache
+C:\Users\Zakaria Sahki\source\repos\DVLD Project\DVLD Project\obj\Debug\DVLD_Project.Form1.resources
+C:\Users\Zakaria Sahki\source\repos\DVLD Project\DVLD Project\obj\Debug\DVLD_Project.Properties.Resources.resources
+C:\Users\Zakaria Sahki\source\repos\DVLD Project\DVLD Project\obj\Debug\DVLD Project.csproj.GenerateResource.cache
+C:\Users\Zakaria Sahki\source\repos\DVLD Project\DVLD Project\obj\Debug\DVLD Project.csproj.CoreCompileInputs.cache
+C:\Users\Zakaria Sahki\source\repos\DVLD Project\DVLD Project\obj\Debug\DVLD Project.exe
+C:\Users\Zakaria Sahki\source\repos\DVLD Project\DVLD Project\obj\Debug\DVLD Project.pdb
+C:\Users\Zakaria Sahki\source\repos\DVLD Project\DVLD Project\obj\Debug\DVLD Project.exe.config

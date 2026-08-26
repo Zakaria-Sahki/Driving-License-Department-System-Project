@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25E653DC-20DF-4E21-B172-8E744ED422E9}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\dvld_dataaccesslayer\\clsdatasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E653DC-20DF-4E21-B172-8E744ED422E9}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|solutionrelative:dvld_dataaccesslayer\\clsdatasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E653DC-20DF-4E21-B172-8E744ED422E9}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|c:\\users\\zakaria sahki\\source\\repos\\dvld project\\dvld_dataaccesslayer\\clsusersdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E653DC-20DF-4E21-B172-8E744ED422E9}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|solutionrelative:dvld_dataaccesslayer\\clsusersdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834AFEED-360A-4D85-B769-D5BE8A2345A0}|DVLDBussinessLayer\\DVLDBussinessLayer.csproj|C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLDBussinessLayer\\clsHashingPassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834AFEED-360A-4D85-B769-D5BE8A2345A0}|DVLDBussinessLayer\\DVLDBussinessLayer.csproj|solutionrelative:DVLDBussinessLayer\\clsHashingPassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7D9B7E-E854-438F-86F3-B02735AC8D2F}|DVLD Project\\DVLD PresentationLayer.csproj|C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\dvld project\\people\\frmmanagepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7D9B7E-E854-438F-86F3-B02735AC8D2F}|DVLD Project\\DVLD PresentationLayer.csproj|solutionrelative:dvld project\\people\\frmmanagepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7D9B7E-E854-438F-86F3-B02735AC8D2F}|DVLD Project\\DVLD PresentationLayer.csproj|C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\dvld project\\people\\frmmanagepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C7D9B7E-E854-438F-86F3-B02735AC8D2F}|DVLD Project\\DVLD PresentationLayer.csproj|solutionrelative:dvld project\\people\\frmmanagepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834AFEED-360A-4D85-B769-D5BE8A2345A0}|DVLDBussinessLayer\\DVLDBussinessLayer.csproj|C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\dvldbussinesslayer\\clspeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834AFEED-360A-4D85-B769-D5BE8A2345A0}|DVLDBussinessLayer\\DVLDBussinessLayer.csproj|solutionrelative:dvldbussinesslayer\\clspeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7D9B7E-E854-438F-86F3-B02735AC8D2F}|DVLD Project\\DVLD PresentationLayer.csproj|C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLD Project\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7D9B7E-E854-438F-86F3-B02735AC8D2F}|DVLD Project\\DVLD PresentationLayer.csproj|solutionrelative:DVLD Project\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7D9B7E-E854-438F-86F3-B02735AC8D2F}|DVLD Project\\DVLD PresentationLayer.csproj|C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\dvld project\\login\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C7D9B7E-E854-438F-86F3-B02735AC8D2F}|DVLD Project\\DVLD PresentationLayer.csproj|solutionrelative:dvld project\\login\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7D9B7E-E854-438F-86F3-B02735AC8D2F}|DVLD Project\\DVLD PresentationLayer.csproj|C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLD Project\\Users\\frmChangePassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7D9B7E-E854-438F-86F3-B02735AC8D2F}|DVLD Project\\DVLD PresentationLayer.csproj|solutionrelative:DVLD Project\\Users\\frmChangePassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmManagePeople.cs",
+              "DocumentMoniker": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLD Project\\People\\frmManagePeople.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\People\\frmManagePeople.cs",
+              "ToolTip": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLD Project\\People\\frmManagePeople.cs",
+              "RelativeToolTip": "DVLD Project\\People\\frmManagePeople.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAHcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T18:47:59.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmManagePeople.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLD Project\\People\\frmManagePeople.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\People\\frmManagePeople.cs",
+              "ToolTip": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLD Project\\People\\frmManagePeople.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\People\\frmManagePeople.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T18:47:53.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsPeople.cs",
+              "DocumentMoniker": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLDBussinessLayer\\clsPeople.cs",
+              "RelativeDocumentMoniker": "DVLDBussinessLayer\\clsPeople.cs",
+              "ToolTip": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLDBussinessLayer\\clsPeople.cs",
+              "RelativeToolTip": "DVLDBussinessLayer\\clsPeople.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T18:47:09.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsDataSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLD_DataAccessLayer\\clsDataSettings.cs",
+              "RelativeDocumentMoniker": "DVLD_DataAccessLayer\\clsDataSettings.cs",
+              "ToolTip": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLD_DataAccessLayer\\clsDataSettings.cs",
+              "RelativeToolTip": "DVLD_DataAccessLayer\\clsDataSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T08:34:15.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLD Project\\Users\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\Users\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLD Project\\Users\\frmChangePassword.cs",
+              "RelativeToolTip": "DVLD Project\\Users\\frmChangePassword.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwC4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T19:28:20.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsHashingPassword.cs",
+              "DocumentMoniker": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLDBussinessLayer\\clsHashingPassword.cs",
+              "RelativeDocumentMoniker": "DVLDBussinessLayer\\clsHashingPassword.cs",
+              "ToolTip": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLDBussinessLayer\\clsHashingPassword.cs",
+              "RelativeToolTip": "DVLDBussinessLayer\\clsHashingPassword.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T19:03:05.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsUsersDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLD_DataAccessLayer\\clsUsersDataAccess.cs",
+              "RelativeDocumentMoniker": "DVLD_DataAccessLayer\\clsUsersDataAccess.cs",
+              "ToolTip": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLD_DataAccessLayer\\clsUsersDataAccess.cs",
+              "RelativeToolTip": "DVLD_DataAccessLayer\\clsUsersDataAccess.cs",
+              "ViewState": "AgIAAEwBAAAAAAAAAAAuwCUBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T18:55:55.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmLoginScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLD Project\\LogIn\\frmLoginScreen.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\LogIn\\frmLoginScreen.cs",
+              "ToolTip": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLD Project\\LogIn\\frmLoginScreen.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\LogIn\\frmLoginScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T03:45:34.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLD Project\\Program.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\Program.cs",
+              "ToolTip": "C:\\Users\\Zakaria Sahki\\source\\repos\\DVLD Project\\DVLD Project\\Program.cs",
+              "RelativeToolTip": "DVLD Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T19:23:26.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
